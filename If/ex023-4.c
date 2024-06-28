@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+	
+	int no;
+	printf("èoê»î‘çÜ:");
+	scanf("%*5c%d", &no);
+	printf("î‘çÜ:%d\n", no);
+}
