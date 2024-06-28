@@ -50,7 +50,7 @@ void DisplayStatus(UINT s)
 	}
 	if (s == Base)
 	{
-		printf("‰Šúó‘Ô");
+		printf("‰Šúó‘Ôa");
 	}
 }
 void ChangeFlag(UINT* s)
